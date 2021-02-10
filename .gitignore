@@ -102,3 +102,5 @@ dist
 
 # TernJS port file
 .tern-port
+git remote add origin https://github.com/Zaayett/nest-waf-primer.git
+git remote -v
